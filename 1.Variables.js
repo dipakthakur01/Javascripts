@@ -79,7 +79,3 @@ let m = null
 console.log(m)
 
 
-
-// non 
-// array
-// object
