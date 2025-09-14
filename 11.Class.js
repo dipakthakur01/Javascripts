@@ -1,4 +1,4 @@
-//const person1 ={
+// const person1 ={
 // const Person1={
 //     name: 'John',
 //     age: 30,
@@ -6,21 +6,21 @@
 
 
 
-// class person{
-//     name;
-//     email;
-//     password;
-//     constructor(name,email,password){
-//         this.name=name;
-//         this.email=email;
-//         this.password=password;
-//     }
-// }
-// const person2 = new person('Alice','alice@gmail.com','alice@123');
-// const person3 = new person('dipak','dipak@gmail.com','dipak@123');
+class person{
+    name;
+    email;
+    password;
+    constructor(name,email,password){
+        this.name=name;
+        this.email=email;
+        this.password=password;
+    }
+}
+const person2 = new person('Alice','alice@gmail.com','alice@123');
+const person3 = new person('dipak','dipak@gmail.com','dipak@123');
 
-// console.log(person2);
-// console.log(person3);
+console.log(person2);
+console.log(person3);
 
 
 class person{
